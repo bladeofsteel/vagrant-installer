@@ -28,7 +28,7 @@ use Composer\Installer\LibraryInstaller;
 use Composer\Package\PackageInterface;
 
 /**
- * Class for instal Vagrant environment to custom path
+ * Class for install Vagrant environment to custom path
  *
  * @package Yassa\Composer
  */
