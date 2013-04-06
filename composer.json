@@ -1,5 +1,5 @@
 {
-    "name": "zeus/installer",
+    "name": "yassa/vagrant-installer",
     "type": "composer-installer",
     "description": "Composer installer for Vagrant environment.",
     "license": "custom",
@@ -12,11 +12,11 @@
     ],
     "autoload": {
         "psr-0": {
-            "Zeus\\Composer": ""
+            "Yassa\\Composer": ""
         }
     },
     "extra": {
-        "class": "Zeus\\Composer\\VagrantInstaller"
+        "class": "Yassa\\Composer\\VagrantInstaller"
     },
-    "target-dir": "Zeus"
+    "target-dir": "Yassa"
 }
